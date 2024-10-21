@@ -1,1 +1,1 @@
-
+news_2000是处理好的2000条新闻数据，其中的content部分用于bertopic
